@@ -2,6 +2,12 @@ Jogo de xadrez
 
 1- primeiro passo montar o tabuleiro 
 
+t= torre 
+c= cavalo
+b= bispo
+q= rainha
+k= rei
+p= peoes
 
    Resultado esperado no terminar. 
 
@@ -15,6 +21,6 @@ Jogo de xadrez
 2 p p p p p p p p 
 1 t c b q k b c t 
 
-
-
+formado por uma matriz 
+[8][8]
 Link para o JAVA17 https://adoptium.net/temurin/releases/?version=17&package=jdk
